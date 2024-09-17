@@ -5,10 +5,10 @@ date:   2024-09-05 15:20:53 +0200
 categories: jekyll update
 ---
 # JAVA
-##NAME
+## NAME
 java - launch a Java application
 
-##SYNOPSIS
+## SYNOPSIS
 To launch a class file:
 
 `java [options] mainclass [args ...]`
@@ -47,5 +47,5 @@ source-file
 args ...
 - Optional: Arguments following mainclass, source-file, -jar jarfile, and -m or --module module/mainclass are passed as arguments to the main class.
 
-##DESCRIPTION
+## DESCRIPTION
 The java command starts a Java application. It does this by starting the Java Virtual Machine (JVM), loading the specified class, and calling that class's main() method. The method must be declared public and static, it must not return any value, and it must accept a String array as a parameter. 

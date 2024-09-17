@@ -4,12 +4,12 @@ title:  "Git documentation"
 date:   2024-09-05 15:20:53 +0200
 categories: jekyll update
 ---
-#GIT
+# GIT
 
-##NAME
+## NAME
 git - the stupid content tracker
 
-##SYNOPSIS
+## SYNOPSIS
 ```
 git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
     [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
@@ -18,7 +18,7 @@ git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
     [--work-tree=<path>] [--namespace=<name>] [--config-env=<name>=<envvar>]
     <command> [<args>]
 ```
-##DESCRIPTION
+## DESCRIPTION
 Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 
 A formatted and hyperlinked copy of the latest Git documentation can be viewed at [Github docs][github-docs] or [Gitscm docs][gitscm-docs].
